@@ -1,0 +1,4 @@
+Alloc s: 1.203
+Seq s: 0.035
+Rand s: 0.559
+checksum: 21152000

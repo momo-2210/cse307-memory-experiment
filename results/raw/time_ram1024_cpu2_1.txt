@@ -1,0 +1,25 @@
+Command exited with non-zero status 124
+	Command being timed: "timeout 900 python3 workload.py"
+	User time (seconds): 8.61
+	System time (seconds): 321.92
+	Percent of CPU this job got: 36%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 15:00.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 573476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4769487
+	Minor (reclaiming a frame) page faults: 1421481
+	Voluntary context switches: 4626398
+	Involuntary context switches: 5594
+	Swaps: 0
+	File system inputs: 53016320
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 124
+exit=124

@@ -1,0 +1,3 @@
+pswpin 6913394
+pswpout 6823893
+pgmajfault 5461712

@@ -1,0 +1,3 @@
+pswpin 192
+pswpout 96751
+pgmajfault 248
